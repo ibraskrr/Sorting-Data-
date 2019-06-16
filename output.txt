@@ -1,0 +1,32 @@
+2. The entire collection sorted in alphabetical order: 
+Blondie - Parallel Lines
+Goldfrapp - Supernature
+Jordi Savall & Hesperion XX - Folias and Canarios
+Kraftwerk - The Man Machine
+Kraftwerk - Trans Europe Express
+Led Zeppelin - Led Zeppelin IV
+Marillion - Script for a Jester's Tear
+Miles Davis - Kind of Blue
+Neil Pye - Neil's Heavy Concept Album
+Nimoy & Shatner - Spaced Out
+Pink Floyd - Animals
+Pink Floyd - Dark Side of the Moon
+Pink Floyd - Meddle
+Pink Floyd - Momentary Lapse of Reason
+Pink Floyd - Wish You Were Here
+Pulp - Different Class
+The Beatles - Rubber Soul
+The Dave Brubeck Quartet - Take Five
+The Jimi Hendrix Experience - Are you Experienced?
+
+3. The total playtime of all Pink Floyd albums: 
+3:46:20
+
+4. The album with the largest number of tracks: 
+Nimoy & Shatner - Spaced Out
+
+5. The longest track of the collection: 
+ - 0:23:31
+
+
+RUN SUCCESSFUL (total time: 474ms)
